@@ -10,7 +10,7 @@ Config.Settings = {
 
     lang = {
         notWhitelisted = 'You are not whitelisted on (Server Name)',
-        checkConnection = 'Check that you have connected your discord with FiveM',
+        noDiscord = 'Check that you have connected your discord with FiveM',
         joinDiscord = 'Join our discord here'
     },
 
